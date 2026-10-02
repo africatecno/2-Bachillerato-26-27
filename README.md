@@ -1,2 +1,2 @@
-# 2ºBachillerato 26-27
+# mis primeras prácticas
 Código base para 2ºBachillerato
