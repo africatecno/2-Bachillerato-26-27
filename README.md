@@ -1,2 +1,2 @@
-# 2-Bachillerato-26-27
+# 2Bachillerato 26-27
 Código base para 2ºBachillerato
